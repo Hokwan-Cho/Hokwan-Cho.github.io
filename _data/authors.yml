@@ -24,7 +24,7 @@ vvs:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:         khw11044
+    facebook:         ""
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -48,7 +48,7 @@ vvs:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          khw11044
+    github:           "Hokwan-Cho"
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -59,8 +59,8 @@ vvs:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           dleo_vvs@kakao.com
-    rss:             https://khw11044.github.io/feed.xml
+    email:           dev_hk@naver.com
+    rss:             https://Hokwan-Cho.github.io/feed.xml
 
 # Another author
 author2:
