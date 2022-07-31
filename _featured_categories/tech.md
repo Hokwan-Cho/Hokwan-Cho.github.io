@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 4
 description: >
-  수업  
+   기술관련 포스팅
 ---
