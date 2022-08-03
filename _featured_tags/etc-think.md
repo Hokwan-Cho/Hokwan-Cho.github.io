@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Seoul
-slug: seoul
+title: Think
+slug: Think
 category: trip
 menu: false
 order: 1

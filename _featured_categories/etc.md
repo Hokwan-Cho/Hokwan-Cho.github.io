@@ -1,10 +1,10 @@
 ---
 layout: list
-title: etc
-slug: etc
+title: ETC
+slug: ETC
 menu: true
-submenu: false
-order: 6
+submenu: true
+order: 5
 description: >
-  기타, 이것저것
+  기타 여러가지 포스팅
 ---
